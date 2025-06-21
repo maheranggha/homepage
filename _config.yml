@@ -13,7 +13,7 @@ title                    : "My Homepage"
 title_separator          : "-"
 name                     : &name "Mahendra Pawitra"
 description              : &description "personal description"
-url                      : https://maheranggha.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://maheranggha.github.io/homepage # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maheranggha/homepage"
 
@@ -22,13 +22,13 @@ repository               : "maheranggha/homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "favicon.png"
+  avatar           : "Me_Taipingshan_Wood_cut.jpg"
   name             : "Mahendra Pawitra" # Your name
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Taoyuan, TW"
   employer         : "DI Lab, National Central University"
-  uri              : "https://di.cl.ncu.edu.tw/""
+  uri              : "https://di.cl.ncu.edu.tw/"
   email            : "maspawitra+web@gmail.com"
 
   # Academic websites

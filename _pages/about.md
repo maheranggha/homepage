@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
-
-I am a Ph.D. student at the Graduate Institute of Network Learning Technology, College of Electrical Engineering and Computer Science National Central University (NCU). Currently a Research Assistant in the [Data Insight Lab](https://di.cl.ncu.edu.tw/), and I also serve as a Teaching Assistant for several EMI courses led by [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung), including _Educational Data Mining using Python, Quantitative Research Methods,_ and _Data Visualization_.
+I am a first year Ph.D. student at the Graduate Institute of Network Learning Technology, College of Electrical Engineering and Computer Science National Central University (NCU). Currently a Research Assistant in the [Data Insight Lab](https://di.cl.ncu.edu.tw/), and I also serve as a Teaching Assistant for several EMI courses led by [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung), including _Educational Data Mining using Python, Quantitative Research Methods,_ and _Data Visualization_.
 
 I re-discovered my love of learning when I was teaching in [Mutiara Persada](https://www.mutiarapersada.sch.id/) high school while finishing M.Ed from [UNY](https://dptei.ft.uny.ac.id/), then moved to Taiwan to living my dream of studying abroad and received M.Sc from [NCU](https://www.ncu.edu.tw/). Prior to NCU, I was building startup business in sustainable tourism (2015-2020) and village-based digital community (2014-2017). I grew up in Jogja and went to [Teladan](https://www.sman1yogya.sch.id/). 
 
@@ -18,5 +16,3 @@ My research interests lie at the intersection of Data Science, Artificial Intell
 Beyond academics, I enjoy swimming, badminton, chess, halal food, and traveling. I am in joyful state when reading books with a coffee. I occasionally forest bathing to reconnect with nature and recharge my mind.
 
 Through this website, I aim to document and share my research journey, ongoing projects, and reflections as a Ph.D. student. Thank you for visiting!
-
-

@@ -3,12 +3,12 @@ title: "A Machine Learning Approach to Predicting On-Time Graduation in Indonesi
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-elinvo-ml-prediction
-excerpt: 'This study uses machine learning techniques to predict on-time graduation in Indonesian higher education.'
+excerpt: 'This study uses machine learning techniques to predict on-time graduation in Indonesian higher education. The research employed nine machine learning models, including Random Forest, Logistic Regression, Neural Networks, etc., to identify key predictors of on-time graduation. The result showed that Random Forest outperformed other models by achieving an accuracy of 85% and an AUC of 0.875.'
 # paper_keyword: 'On-time graduation; educational data mining; institutional research; learning analytics dashboard; machine learning'
 date: 2024-10-02
 venue: 'Elinvo (Electronics, Informatics, and Vocational Education)'
-slidesurl: 'https://scholarhub.uny.ac.id/cgi/viewcontent.cgi?article=1218&context=elinvo'
-# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+# slidesurl: ''
+paperurl: 'https://scholarhub.uny.ac.id/cgi/viewcontent.cgi?article=1218&context=elinvo'
 citation: 'Pawitra, M. A. S., Hung, H. C., & Jati, H. (2024). A Machine Learning Approach to Predicting On-Time Graduation in Indonesian Higher Education. <i>Elinvo (Electronics, Informatics, and Vocational Education), 9</i>(2), 294-308. https://doi.org/10.21831/elinvo.v9i2.77052'
 ---
 

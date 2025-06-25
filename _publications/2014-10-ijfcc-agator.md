@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2014-10-ijfcc-agator
 excerpt: 'This research aims to design and make AGATOR (Automatic Garbage Collector), a rotor robot model as automatic garbage collector to counter accumulation of garbage in the river which has no flow effectively and efficiently.'
 # paper_keyword: 'Automatic, garbage, microcontroller, robot'
-date: 2014-10
+date: 2014-10-01
 venue: 'International Journal of Future Computer and Communication'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.ijfcc.org/papers/329-CS3004.pdf'

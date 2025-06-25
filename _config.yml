@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Newbie Researcher"
   location         : "Taoyuan, TW"
-  employer         : "DI Lab, National Central University"
+  employer         : 
   # uri              : "https://di.cl.ncu.edu.tw/"
   email            : "maspawitra+web@gmail.com"
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "mahendra.sanggha"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : "maspawitra"
@@ -81,9 +81,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles 📰'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Papers 🎙️'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

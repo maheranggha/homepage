@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,45 +9,104 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# 🎓 Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. in Network Learning Technology**, *National Central University*, Taiwan  
+  *2024 – Present*  
+  Research Assistant at Data Insight Lab  
+  Teaching Assistant for EMI courses: 
+    - Educational Data Mining using Python, 
+    - Quantitative Research Methods in e-Learning, 
+    <!-- - Data Visualization -->
+  Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
+- **MSc. in Network Learning Technology**, *National Central University*, Taiwan
+  *2023 - 2024 (Dual Degree)*
+  Focus on Machine Learning for Education
+  Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
+- **M.Ed. (Hons) in Electronics and Informatics Engineering**, *Universitas Negeri Yogyakarta*, Indonesia
+  *2021 – 2023*  
+  Focus on Pedagogical Concept and Technology-enhanced Learning
+  Advisor: [Dr. Handaru Jati](https://scholar.google.com/citations?user=tFKBYJ8AAAAJ&hl=en)
+- **B.Ed in Informatics Engineering**, *Universitas Negeri Yogyakarta*, Indonesia  
+  *2011 – 2019*
+  Focus on Knowledge Management System 
+    Advisor: [Dr. Handaru Jati](https://scholar.google.com/citations?user=tFKBYJ8AAAAJ&hl=en)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# 👨‍🏫 Teaching Experience
 
-Publications
+- **Teaching Assistant**, National Central University, Taiwan  
+  *Fall 2024 – Present*  
+  Courses:
+  - NL7045 Educational Data Mining using Python (EMI)
+  - NL7030 Quantitative Research Methods in e-Learning (EMI)
+  <!-- - Data Visualization (EMI) -->
+- **Math Teacher**, PKBM PPI Taiwan
+  *2024 - Present*
+  Teaching Mathematics for Grade 6 - 12 of High School *(Kejar Paket B - C)*
+- **IT Teacher**, Mutiara Persada Multicommunity School, Indonesia  
+  *2019 – 2022*  
+  Taught Computational Thinking, basic programming, and digital literacy
+  ICT Laboratorian and Technician
+- **IT Teacher (Intern)**, Kluang Vokasional Kolej, Malaysia
+  *August - September 2014*
+  Introduce programming and Un-plugged Computational Thinking
+
+---
+# 👷‍♂️ Working Experience
+
+- **Co-Founder and CTO** of CV. Nara Tour 
+  *2018 - 2020 (Declared bankrupcy in pandemic)*
+  Built and managed an eco-sustainable tour agency based in Yogyakarta
+
+- **CTO** of Villageria, *UGM Entrepreneurship Development Service*
+  *2016 - 2018*
+  Selected Appcelerate Digital Startup by Innovative Academy UGM 
+
+- **Data Analyst** of Modern Channel Division, *Telkom (Magelang Branch)*
+  *2013*
+  Analyzed and managed cable-internet data of government-owned telecommunication company in Indonesia 
+
+---
+
+# 🤝Organization & Volunteer
+- *2024 - Present* | [President] NCU Muslim Club
+- *2023 - 2024* | [Vice Governor] FORMMIT Utada
+- *2015 - 2017* | [Leader] Karang Taruna Kamajaya Semail (Village Youth)
+- *2013* | [Supervisor] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013
+- *2009 - 2010* | [Mitratama] OSIS PH OBTB (Student Association)
+ 
+---
+# 🏆 Honors & Awards
+- *2024* - Best Master student with 4.0 GPA 
+- *2023* - Granted Dual Degree Program UNY-NCU
+- *2019* - Top Ranked student of Digital Talent Scholarship *UGM x Amazon AWS* (Artificial Intelligence program)
+---
+<!-- # 🛠️ Skills and Tools 
+- Programming :
+  - Language: Python, Java, Visual Basic, JavaScript, Lua, C++
+  - ML: NLP, TensorFlow, Orange, Llama
+  - Database: MySQL, SQLite
+  - Development: Docker
+  - General: Git, Bash, Vim -->
+
+# 🌍 Languages
+
+- Bahasa Indonesia (Native)
+- English (Professional)
+- Arabic (Basic)
+- Chinese (Basic)
+
+---
+
+📰 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +116,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# 📬 Contact
+
+- Email: maspawitra@gmail.com

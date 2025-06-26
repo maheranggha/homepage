@@ -6,9 +6,9 @@ tags:
   - blog
 ---
 
-### Hello, friends! 👋
+Hello, friends! 👋
 
-Welcome to my personal academic blog! 🎓  
+Welcome to my personal blog! 🎓  
 I’ve created this space to share thoughts, experiences, and reflection from my PhD life journey and beyond.
 
 To be honest, I always like to write and share it on the blog I had rather than on Social Media apps. But, it's always challenging to maintain my previous blogs, both on the content and technical parts. Despite so, I never get bored to try again as I have a dream to be a writer. Writer should be writing, right?!

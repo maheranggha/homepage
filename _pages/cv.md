@@ -37,9 +37,11 @@ redirect_from:
   Courses:
   - NL7045 Educational Data Mining using Python (EMI)
   - NL7030 Quantitative Research Methods in e-Learning (EMI)
-  <!-- - Data Visualization (EMI) -->
+
 - **Math Teacher**, PKBM PPI Taiwan
+
   *2024 - Present*
+  
   Teaching Mathematics for Grade 6 - 12 of High School *(Kejar Paket B - C)*
 - **IT Teacher**, Mutiara Persada Multicommunity School, Indonesia  
   *2019 – 2022*  

@@ -11,22 +11,22 @@ redirect_from:
 
 # 🎓 Education
 
-- **Ph.D. in Network Learning Technology**, *National Central University*, Taiwan  
+- **Ph.D. in Network Learning Technology**, *National Central University*, Taiwan 
   *2024 – Present*  
   Exploring Generative AI for Programming Education and Reading Companion
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
 - **MSc. in Network Learning Technology**, *National Central University*, Taiwan
-  *2023 - 2024 (Dual Degree)*
-  Focus on Machine Learning for Education
+  *2023 - 2024 (Dual Degree)* 
+  Focus on Machine Learning for Education  
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
-- **M.Ed. (Hons) in Electronics and Informatics Engineering**, *Universitas Negeri Yogyakarta*, Indonesia
-  *2021 – 2023*  
-  Focus on Pedagogical Concept and Technology-enhanced Learning
+- **M.Ed. (Hons) in Electronics and Informatics Engineering**, *Universitas Negeri Yogyakarta*, Indonesia  
+  *2021 – 2023*   
+  Focus on Pedagogical Concept and Technology-enhanced Learning  
   Advisor: [Dr. Handaru Jati](https://scholar.google.com/citations?user=tFKBYJ8AAAAJ&hl=en)
 - **B.Ed in Informatics Engineering**, *Universitas Negeri Yogyakarta*, Indonesia  
-  *2011 – 2019*
-  Focus on Knowledge Management System 
-    Advisor: [Dr. Handaru Jati](https://scholar.google.com/citations?user=tFKBYJ8AAAAJ&hl=en)
+  *2011 – 2019*  
+  Focus on Knowledge Management System  
+  Advisor: [Dr. Handaru Jati](https://scholar.google.com/citations?user=tFKBYJ8AAAAJ&hl=en)
 
 ---
 
@@ -34,19 +34,19 @@ redirect_from:
 
 - **Teaching Assistant**, National Central University, Taiwan  
   *Fall 2024 – Present*  
-  Courses:
+  Courses: 
   - NL7045 Educational Data Mining using Python (EMI)
   - NL7030 Quantitative Research Methods in e-Learning (EMI)
 
-- **Math Teacher**, PKBM PPI Taiwan
-  *2024 - Present*
+- **Math Teacher**, PKBM PPI Taiwan  
+  *2024 - Present*  
   Teaching Mathematics for Grade 6 - 12 of High School *(Kejar Paket B - C)*
 - **IT Teacher**, Mutiara Persada Multicommunity School, Indonesia  
   *2020 – 2023*  
   Taught Computational Thinking, basic programming, and digital literacy
-  ICT Laboratorian and Technician
-- **IT Teacher (Intern)**, Kluang Vokasional Kolej, Malaysia
-  *August - September 2014*
+  ICT Laboratorian and Technician  
+- **IT Teacher (Intern)**, Kluang Vokasional Kolej, Malaysia  
+  *August - September 2014*  
   Introduce programming and Un-plugged Computational Thinking
 
 ---
@@ -71,12 +71,12 @@ redirect_from:
 - *2024 - Present* - [ President ] NCU Muslim Club
 - *2023 - 2024* - [ Vice Governor ] FORMMIT Utada
 - *2015 - 2017* - [ Leader ] Karang Taruna Kamajaya Semail (Village Youth)
-- *2013 May* [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013
+- *2013 May* - [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013
 - *2009 - 2010* - [ Mitratama ] OSIS PH OBTB (Student Association)
  
 ---
 # 🏆 Honors & Awards
-- *2024* - Best Master student with 4.0 GPA 
+- *2024* - Highest Ranked Master student with 4.0 GPA 
 - *2023* - Granted Dual Degree Program UNY-NCU
 - *2019* - Top Ranked student of Digital Talent Scholarship *UGM x Amazon AWS* (Artificial Intelligence program)
 
@@ -111,4 +111,4 @@ Teaching
 ---
 # 📬 Contact
 
-- Email: maspawitra@gmail.com
+- Email: [maspawitra@gmail.com](mailto:maspawitra@gmail.com)

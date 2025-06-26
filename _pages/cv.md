@@ -13,11 +13,7 @@ redirect_from:
 
 - **Ph.D. in Network Learning Technology**, *National Central University*, Taiwan  
   *2024 – Present*  
-  Research Assistant at Data Insight Lab  
-  Teaching Assistant for EMI courses: 
-    - Educational Data Mining using Python, 
-    - Quantitative Research Methods in e-Learning, 
-    <!-- - Data Visualization -->
+  Exploring Generative AI for Programming Education and Reading Companion
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
 - **MSc. in Network Learning Technology**, *National Central University*, Taiwan
   *2023 - 2024 (Dual Degree)*
@@ -55,7 +51,8 @@ redirect_from:
 
 ---
 # 👷‍♂️ Working Experience
-
+- **Research Assistant** at Data Insight Lab, National Central University
+  *Fall 2024 - Present*
 - **Co-Founder and CTO** of CV. Nara Tour 
   *2018 - 2020 (Declared bankrupcy in pandemic)*
   Built and managed an eco-sustainable tour agency based in Yogyakarta
@@ -64,16 +61,16 @@ redirect_from:
   *2016 - 2018*
   Selected Appcelerate Digital Startup by Innovative Academy UGM 
 
-- **Data Analyst** of Modern Channel Division, *Telkom (Magelang Branch)*
+- **Data Analyst** at Modern Channel Division, *Telkom (Magelang Branch)*
   *2013*
   Analyzed and managed cable-internet data of government-owned telecommunication company in Indonesia 
 
 ---
 
 # 🤝Organization & Volunteer
-- *2024 - Present* | [President] NCU Muslim Club
-- *2023 - 2024* | [Vice Governor] FORMMIT Utada
-- *2015 - 2017* | [Leader] Karang Taruna Kamajaya Semail (Village Youth)
+- *2024 - Present* - [President] NCU Muslim Club
+- *2023 - 2024*  [Vice Governor] FORMMIT Utada
+- *2015 - 2017* - [Leader] Karang Taruna Kamajaya Semail (Village Youth)
 - *2013* | [Supervisor] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013
 - *2009 - 2010* | [Mitratama] OSIS PH OBTB (Student Association)
  
@@ -82,14 +79,8 @@ redirect_from:
 - *2024* - Best Master student with 4.0 GPA 
 - *2023* - Granted Dual Degree Program UNY-NCU
 - *2019* - Top Ranked student of Digital Talent Scholarship *UGM x Amazon AWS* (Artificial Intelligence program)
+
 ---
-<!-- # 🛠️ Skills and Tools 
-- Programming :
-  - Language: Python, Java, Visual Basic, JavaScript, Lua, C++
-  - ML: NLP, TensorFlow, Orange, Llama
-  - Database: MySQL, SQLite
-  - Development: Docker
-  - General: Git, Bash, Vim -->
 
 # 🌍 Languages
 
@@ -117,7 +108,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
+---
 # 📬 Contact
 
 - Email: maspawitra@gmail.com

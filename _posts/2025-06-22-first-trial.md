@@ -1,14 +1,12 @@
 ---
-title: 'First Trial Post'
-date: 2025-06-22
-permalink: /posts/2025/06/trial-post/
+title: 'First Blog Post'
+date: 2025-06-26
+permalink: /posts/2025/06/first-post/
 tags:
   - blog
 ---
 
-# First Blog
-
-Hello, friends! 👋
+### Hello, friends! 👋
 
 Welcome to my personal academic blog! 🎓  
 I’ve created this space to share thoughts, experiences, and reflection from my PhD life journey and beyond.

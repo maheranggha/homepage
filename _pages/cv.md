@@ -68,11 +68,11 @@ redirect_from:
 ---
 
 # 🤝Organization & Volunteer
-- *2024 - Present* - [President] NCU Muslim Club
-- *2023 - 2024*  [Vice Governor] FORMMIT Utada
-- *2015 - 2017* - [Leader] Karang Taruna Kamajaya Semail (Village Youth)
-- *2013* | [Supervisor] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013
-- *2009 - 2010* | [Mitratama] OSIS PH OBTB (Student Association)
+- *2024 - Present* - [ President ] NCU Muslim Club
+- *2023 - 2024* - [ Vice Governor ] FORMMIT Utada
+- *2015 - 2017* - [ Leader ] Karang Taruna Kamajaya Semail (Village Youth)
+- *2013 May* [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013
+- *2009 - 2010* | [ Mitratama ] OSIS PH OBTB (Student Association)
  
 ---
 # 🏆 Honors & Awards

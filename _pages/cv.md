@@ -39,12 +39,10 @@ redirect_from:
   - NL7030 Quantitative Research Methods in e-Learning (EMI)
 
 - **Math Teacher**, PKBM PPI Taiwan
-
   *2024 - Present*
-  
   Teaching Mathematics for Grade 6 - 12 of High School *(Kejar Paket B - C)*
 - **IT Teacher**, Mutiara Persada Multicommunity School, Indonesia  
-  *2019 – 2022*  
+  *2020 – 2023*  
   Taught Computational Thinking, basic programming, and digital literacy
   ICT Laboratorian and Technician
 - **IT Teacher (Intern)**, Kluang Vokasional Kolej, Malaysia

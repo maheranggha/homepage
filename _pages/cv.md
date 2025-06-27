@@ -57,12 +57,12 @@ redirect_from:
   *2018 - 2020 (Declared bankrupcy in pandemic)*  
   Built and managed an eco-sustainable tour agency based in Yogyakarta
 
-- **CTO** of Villageria, *UGM Entrepreneurship Development Service*
+- **CTO** of Villageria, *UGM Entrepreneurship Development Service*  
   *2016 - 2018*  
   Selected Appcelerate Digital Startup by Innovative Academy UGM  
 
-- **Data Analyst** at Modern Channel Division, *Telkom (Magelang Branch)*
-  *2013*  
+- **Data Analyst** at Modern Channel Division, *Telkom (Magelang Branch)*  
+  *2013*     
   Analyzed and managed cable-internet data of government-owned telecommunication company in Indonesia 
 
 ---
@@ -71,7 +71,7 @@ redirect_from:
 - *2024 - Present* - [ President ] NCU Muslim Club  
 - *2023 - 2024* - [ Vice Governor ] FORMMIT Utada  
 - *2015 - 2017* - [ Leader ] Karang Taruna Kamajaya Semail (Village Youth)  
-- *2013 May* - [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013  
+- *2013 May* - [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 
 - *2009 - 2010* - [ Mitratama ] OSIS PH OBTB (Student Association)  
  
 ---

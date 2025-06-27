@@ -51,9 +51,9 @@ redirect_from:
 
 ---
 # 👷‍♂️ Working Experience
-- **Research Assistant** at Data Insight Lab, National Central University
-  *Fall 2024 - Present*
-- **Co-Founder and CTO** of CV. Nara Tour 
+- **Research Assistant** at Data Insight Lab, National Central University  
+  *Fall 2024 - Present*  
+- **Co-Founder and CTO** of CV. Nara Tour  
   *2018 - 2020 (Declared bankrupcy in pandemic)*  
   Built and managed an eco-sustainable tour agency based in Yogyakarta
 

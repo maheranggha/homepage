@@ -13,7 +13,7 @@ redirect_from:
 
 - **Ph.D. in Network Learning Technology**, *National Central University*, Taiwan 
   *2024 – Present*  
-  Exploring Generative AI for Programming Education and Reading Companion
+  Exploring Generative AI for Programming Education and Reading Companion  
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
 - **MSc. in Network Learning Technology**, *National Central University*, Taiwan
   *2023 - 2024 (Dual Degree)* 
@@ -43,7 +43,7 @@ redirect_from:
   Teaching Mathematics for Grade 6 - 12 of High School *(Kejar Paket B - C)*
 - **IT Teacher**, Mutiara Persada Multicommunity School, Indonesia  
   *2020 – 2023*  
-  Taught Computational Thinking, basic programming, and digital literacy
+  Taught Computational Thinking, basic programming, and digital literacy  
   ICT Laboratorian and Technician  
 - **IT Teacher (Intern)**, Kluang Vokasional Kolej, Malaysia  
   *August - September 2014*  
@@ -54,31 +54,31 @@ redirect_from:
 - **Research Assistant** at Data Insight Lab, National Central University
   *Fall 2024 - Present*
 - **Co-Founder and CTO** of CV. Nara Tour 
-  *2018 - 2020 (Declared bankrupcy in pandemic)*
+  *2018 - 2020 (Declared bankrupcy in pandemic)*  
   Built and managed an eco-sustainable tour agency based in Yogyakarta
 
 - **CTO** of Villageria, *UGM Entrepreneurship Development Service*
-  *2016 - 2018*
-  Selected Appcelerate Digital Startup by Innovative Academy UGM 
+  *2016 - 2018*  
+  Selected Appcelerate Digital Startup by Innovative Academy UGM  
 
 - **Data Analyst** at Modern Channel Division, *Telkom (Magelang Branch)*
-  *2013*
+  *2013*  
   Analyzed and managed cable-internet data of government-owned telecommunication company in Indonesia 
 
 ---
 
-# 🤝Organization & Volunteer
-- *2024 - Present* - [ President ] NCU Muslim Club
-- *2023 - 2024* - [ Vice Governor ] FORMMIT Utada
-- *2015 - 2017* - [ Leader ] Karang Taruna Kamajaya Semail (Village Youth)
-- *2013 May* - [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013
-- *2009 - 2010* - [ Mitratama ] OSIS PH OBTB (Student Association)
+# 🤝Organization & Volunteer  
+- *2024 - Present* - [ President ] NCU Muslim Club  
+- *2023 - 2024* - [ Vice Governor ] FORMMIT Utada  
+- *2015 - 2017* - [ Leader ] Karang Taruna Kamajaya Semail (Village Youth)  
+- *2013 May* - [ Supervisor ] Liaison Officer of International Conference on Vocational Education and Training (ICVET) 2013  
+- *2009 - 2010* - [ Mitratama ] OSIS PH OBTB (Student Association)  
  
 ---
-# 🏆 Honors & Awards
+# 🏆 Honors & Awards  
 - *2024* - Highest Ranked Master student with 4.0 GPA 
-- *2023* - Granted Dual Degree Program UNY-NCU
-- *2019* - Top Ranked student of Digital Talent Scholarship *UGM x Amazon AWS* (Artificial Intelligence program)
+- *2023* - Granted Dual Degree Program UNY-NCU  
+- *2019* - Top Ranked student of Digital Talent Scholarship *UGM x Amazon AWS* (Artificial Intelligence program)  
 
 ---
 

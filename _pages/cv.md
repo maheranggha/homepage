@@ -16,7 +16,7 @@ redirect_from:
   Exploring Generative AI for Programming Education and Reading Companion  
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
 - **MSc. in Network Learning Technology**, *National Central University*, Taiwan  
-  *2023 - 2024 (Dual Degree)* 
+  *2023 - 2024 (Dual Degree)*   
   Focus on Machine Learning for Education  
   Advisor: [Prof. Hui-Chun Hung](https://scholars.ncu.edu.tw/en/persons/hui-chun-hung)
 - **M.Ed. (Hons) in Electronics and Informatics Engineering**, *Universitas Negeri Yogyakarta*, Indonesia  
